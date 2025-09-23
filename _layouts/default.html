@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <title>{{ page.title | default: site.title }}</title>
+        <meta
+            name="description"
+            content="{{ page.description | default: site.description }}"
+        />
+
+        <link
+            rel="stylesheet"
+            href="{{ '/assets/css/style.css' | relative_url }}"
+        />
+    </head>
+    <body>
+        <main class="cv-container">
+            <div class="cv-header">
+                <div class="cv-photo">
+                    {% if page.photo %}
+                    <img
+                        src="{{ page.photo | relative_url }}"
+                        alt="{{ page.name }}"
+                    />
+                    {% endif %}
+                </div>
+                <div class="cv-title">
+                    <h1>{{ page.name }}</h1>
+                    <p class="cv-subtitle">{{ page.job_title }}</p>
+                    <div class="cv-contact">
+                        <p>{{ page.email }}</p>
+                        <p>{{ page.phone }}</p>
+                        <p>{{ page.location }}</p>
+                    </div>
+                </div>
+            </div>
+
+            {{ content }}
+
+            <hr />
+            <p><em>Last updated: {{ site.time | date: "%B %Y" }}</em></p>
+        </main>
+    </body>
+</html>
