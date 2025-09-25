@@ -1,13 +1,16 @@
-# Site settings
-title: Your Name - CV
+title: Gaëtan Jestin - CV
 description: Personal CV
-url: ""
+url: "https://cv.gaetan.cool"
 baseurl: ""
 
-# Build settings
+permalink: /:slug.html
+
+favicon: "icon.png"
+
 markdown: kramdown
-plugins:
-  - jekyll-feed
+
+sass:
+  style: compressed
 
 # Exclude from processing
 exclude:

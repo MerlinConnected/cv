@@ -1,62 +1,70 @@
 ---
 layout: default
-title: Your Name - CV
-name: Your Name
-job_title: Your Job Title
-email: your.email@example.com
-phone: +1 (555) 123-4567
-location: Location, Country
-photo: /assets/images/profile.jpg
+title: Gaëtan Jestin - CV
+info: Gaëtan Jestin
+job : artistic director & 3D artist
+website: gaetan.cool
+location: Bordeaux
+photo: /assets/images/image.png
 ---
 
-## About
+## Work Experience
 
-Write a brief introduction about yourself, your background, and what you're passionate about. Keep it concise and engaging.
+*2024 - Now*
+### Freelance artistic director & 3D artist
+Bordeaux
 
-## Experience
+*2025 - 2026*
+### 3D Instructor (guest) at Gobelins Paris
+Paris
 
-### Job Title at Company Name
-*Start Date - End Date*
+*2022 - 2025*
+### 3D Artist, Artistic Director & Creative Developer at Kairos Agency
+Bordeaux
 
-Brief description of your role and key achievements. Focus on impact and results.
-
-- Key achievement or responsibility
-- Another important accomplishment
-- Quantifiable result or metric
-
-### Previous Job Title at Another Company
-*Start Date - End Date*
-
-Description of your previous role and what you accomplished there.
-
-- Important achievement
-- Key responsibility
-- Notable project or result
+*2024 - 2026*
+### 3D Instructor (guest) at IUT Bordeaux Montaigne
+Bordeaux
 
 ## Education
 
-### Degree Name
-*University Name, Year*
+*2023 - 2025*
+### Master at Gobelins
+Paris
+Expert en création numérique intéractive
+Option lead creatif
 
-Any relevant details about your education, honors, or significant projects.
+*2022 - 2023*
+### Licence Pro at IUT de Tarbes
+Tarbes
+Médias Intéractifs Applications Mixtes Immersives
 
-### Another Degree or Certification
-*Institution Name, Year*
+*2020 - 2022*
+### DUT at IUT de Bordeaux Montaigne
+Bordeaux
+Métiers du Multimédia et de l’Internet
 
-Additional educational background if applicable.
+## Volunteering
 
-## Skills
+*2021*
+### 3D Artist at Kleidi
+Bordeaux
+The Kleidi project is dedicated to making art accessible to the visually impaired, through tactile and audio experiences.
 
-**Technical Skills:** List your technical competencies
+## Exhibitions
 
-**Languages:** Languages you speak and proficiency levels
+*2023*
+### QATP at Laval Virtual
+Laval
+After winning Laval Virtual’s Hackathon, our game was on exhibit and available for testing for 4 days.
 
-**Other Skills:** Any other relevant skills or certifications
+*2022*
+### Sorror doctrina at MusBA
+Bordeaux
+Exhibited a truc la je sais pas quoi écrire mais je trouverai
 
-## Projects
+## Awards
 
-### Project Name
-Brief description of a significant project you've worked on. Include technologies used and impact.
-
-### Another Project
-Description of another noteworthy project or contribution.
+*2023*
+### Hackaton - Limited Time from Laval Virtual
+First place
